@@ -7,8 +7,8 @@ specifiers:
   '@tremor/react': ^3.2.6
   '@types/js-cookie': ^3.0.3
   '@types/node': 20.8.0
-  '@types/react': 18.2.24
-  '@types/react-dom': 18.2.8
+  '@types/react': 18.2.73
+  '@types/react-dom': 18.2.23
   '@vercel/analytics': ^1.0.1
   autoprefixer: ^10.4.14
   eslint: 8.42.0
@@ -34,8 +34,8 @@ dependencies:
   '@tremor/react': 3.2.6_giay2ad4xmn7hnncx5dhwcc7xy
   '@types/js-cookie': 3.0.3
   '@types/node': 20.8.0
-  '@types/react': 18.2.24
-  '@types/react-dom': 18.2.8
+  '@types/react': 18.2.73
+  '@types/react-dom': 18.2.23
   '@vercel/analytics': 1.0.1
   autoprefixer: 10.4.14_postcss@8.4.24
   eslint: 8.42.0
@@ -444,22 +444,17 @@ packages:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
     dev: false
 
-  /@types/react-dom/18.2.8:
-    resolution: {integrity: sha512-bAIvO5lN/U8sPGvs1Xm61rlRHHaq5rp5N3kp9C+NJ/Q41P8iqjkXSu0+/qu8POsjH9pNWb0OYabFez7taP7omw==}
+  /@types/react-dom/18.2.23:
+    resolution: {integrity: sha512-ZQ71wgGOTmDYpnav2knkjr3qXdAFu0vsk8Ci5w3pGAIdj7/kKAyn+VsQDhXsmzzzepAiI9leWMmubXz690AI/A==}
     dependencies:
-      '@types/react': 18.2.24
+      '@types/react': 18.2.73
     dev: false
 
-  /@types/react/18.2.24:
-    resolution: {integrity: sha512-Ee0Jt4sbJxMu1iDcetZEIKQr99J1Zfb6D4F3qfUWoR1JpInkY1Wdg4WwCyBjL257D0+jGqSl1twBjV8iCaC0Aw==}
+  /@types/react/18.2.73:
+    resolution: {integrity: sha512-XcGdod0Jjv84HOC7N5ziY3x+qL0AfmubvKOZ9hJjJ2yd5EE+KYjWhdOjt387e9HPheHkdggF9atTifMRtyAaRA==}
     dependencies:
       '@types/prop-types': 15.7.5
-      '@types/scheduler': 0.16.3
       csstype: 3.1.2
-    dev: false
-
-  /@types/scheduler/0.16.3:
-    resolution: {integrity: sha512-5cJ8CB4yAx7BH1oMvdU0Jh9lrEXyPkar6F9G/ERswkCuvP4KQZfZkSjcMbAICCpQTN4OuZn8tz0HiKv9TGZgrQ==}
     dev: false
 
   /@typescript-eslint/parser/5.59.9_yf7xqd4m5g7ebieotkjx3u3zpa:
